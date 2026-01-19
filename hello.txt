@@ -1,0 +1,132 @@
+Data Structures ::
+
+Basic (Absolute Minimum)
+
+. Array
+. String
+. Stack
+. Queue
+. Deque
+. Linked List
+. Hash Table (map / unordered_map)
+. Set
+
+Intermediate (Very Important) :
+
+. Binary Search
+. Prefix Sum
+. Two Pointers
+. Sliding Window
+. Bit Manipulation
+. Recursion
+. Binary Heap (Priority Queue)
+
+Tree & Graph Core :
+
+. Binary Tree
+. Binary Search Tree
+. Tree Traversals (DFS, BFS)
+. Graph (Adjacency List / Matrix)
+. Union–Find (Disjoint Set Union – DSU)
+
+Must-Know Algorithms (In Order)
+
+🔹 Fundamental Algorithms
+
+. Sorting
+    Bubble (theory)
+    Selection (theory)
+    Insertion
+    Merge Sort
+    Quick Sort
+. Binary Search
+. Greedy Algorithms
+. Basic Recursion
+
+🔹 Core Competitive Algorithms:
+
+. Dynamic Programming 
+. Fibonacci DP
+. Knapsack (0/1, Unbounded)
+. Longest Common Subsequence (LCS)
+. Longest Increasing Subsequence (LIS)
+. Subset Sum
+. Coin Change
+
+🔹 Graph Algorithms (High Value)
+
+. DFS / BFS
+. Topological Sort
+. Shortest Path
+    Dijkstra
+    Bellman–Ford
+    Floyd–Warshall
+. Minimum Spanning Tree
+    Kruskal
+    Prim
+
+🔹 Number Theory (CP Favorite)
+
+. GCD / LCM
+. Sieve of Eratosthenes
+. Modular Arithmetic
+. Fast Exponentiation
+. Prime Factorization
+
+🔹 Advanced Data Structures
+
+. Segment Tree
+. Fenwick Tree (Binary Indexed Tree)
+. Trie
+. Sparse Table
+. AVL / Red-Black Tree
+. Ordered Set
+
+🔹 Advanced Algorithms
+
+. Bitmask DP
+. Meet in the Middle
+. KMP / Z Algorithm
+. Manacher’s Algorithm
+. Mo’s Algorithm
+. Flow Algorithms (Max Flow, Min Cut)
+
+
+🧠 DATA STRUCTURES YOU MUST MASTER
+
+. Tier-1 (Daily Use)
+    Vector, Set, Map (ordered + unordered)
+    Stack, Queue, Deque
+    Priority Queue
+    Bitset
+    Pair / Tuple
+
+. Tier-2 (Contest Winners)
+    Binary Search (on answer)
+    Prefix Sum / Difference Array
+    Two Pointers / Sliding Window
+    Disjoint Set Union (DSU)
+    Heap + Greedy
+    Bit Manipulation
+
+. Tier-3 (Rating Boosters)
+    Segment Tree
+    Fenwick Tree
+    Sparse Table
+    Trie
+
+⚔️ ALGORITHMS YOU MUST KNOW
+
+🔹 Sorting & Searching
+    Custom Comparator
+    Coordinate Compression
+    Binary Search on monotonic function
+
+🔹 Graph Algorithms (ICPC CORE)
+    DFS / BFS (iterative)
+    Topological Sort
+    Dijkstra (priority_queue optimized)
+    Bellman-Ford (cycle detection)
+    Floyd-Warshall (small constraints)
+    Kruskal + DSU
+    Prim’s Algorithm
